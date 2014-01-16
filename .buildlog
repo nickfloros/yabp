@@ -1,0 +1,973 @@
+---
+build.dart --machine --full
+
+build.dart finished [1906 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+[{"method":"warning","params":{"file":"web/ptest12.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":58,"charStart":1739,"charEnd":1764}}]
+build.dart finished [1586 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+[{"method":"warning","params":{"file":"web/ptest12.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":58,"charStart":1775,"charEnd":1800}}]
+build.dart finished [1618 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+[{"method":"warning","params":{"file":"web/ptest12.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":59,"charStart":1799,"charEnd":1824}}]
+build.dart finished [1607 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/ptest12.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":59,"charStart":1799,"charEnd":1824}}]
+build.dart finished [1607 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+
+build.dart finished [1565 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+
+build.dart finished [1565 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1761 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1601 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1603 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1657 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1606 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1600 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1662 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1601 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1606 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+
+build.dart finished [1553 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+
+build.dart finished [1613 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+
+build.dart finished [1609 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+
+build.dart finished [1564 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+
+build.dart finished [1637 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+
+build.dart finished [1618 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+
+build.dart finished [1673 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+
+build.dart finished [1602 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+
+build.dart finished [1633 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1653 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1620 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1671 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1650 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1586 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1602 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1696 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1622 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1671 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1679 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1599 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1591 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1661 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1814 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1562 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1617 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1655 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+
+build.dart finished [1733 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+
+build.dart finished [1846 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [3652 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [3328 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [3295 ms]
+
+---
+build.dart --machine --clean
+
+build.dart finished [1815 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [6886 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+
+build.dart finished [1533 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+
+build.dart finished [1732 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+
+build.dart finished [1470 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+
+build.dart finished [1621 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+
+build.dart finished [1459 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+
+build.dart finished [1678 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+build.dart finished [1495 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+build.dart finished [1460 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+build.dart finished [1439 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+build.dart finished [1399 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Unexpected character after attribute value.","line":34,"charStart":1876,"charEnd":1920}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":602,"charEnd":609}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Unexpected character after attribute value.","line":34,"charStart":1876,"charEnd":1920}}]
+build.dart finished [1426 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1532 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1458 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1625 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1551 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1496 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1488 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1508 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1506 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1532 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":14,"charStart":606,"charEnd":613}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1506 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":442,"charEnd":449}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (template). Ignored.","line":36,"charStart":1950,"charEnd":1961}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (polymer-element). Ignored.","line":38,"charStart":2030,"charEnd":2048}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Expected closing tag. Unexpected end of file.","line":5,"charStart":81,"charEnd":219}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1794 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":442,"charEnd":449}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (template). Ignored.","line":36,"charStart":1950,"charEnd":1961}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (polymer-element). Ignored.","line":38,"charStart":2030,"charEnd":2048}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Expected closing tag. Unexpected end of file.","line":5,"charStart":81,"charEnd":219}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1508 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":442,"charEnd":449}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (template). Ignored.","line":36,"charStart":1957,"charEnd":1968}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (polymer-element). Ignored.","line":38,"charStart":2037,"charEnd":2055}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Expected closing tag. Unexpected end of file.","line":5,"charStart":81,"charEnd":219}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [2026 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":442,"charEnd":449}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (template). Ignored.","line":36,"charStart":1957,"charEnd":1968}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (polymer-element). Ignored.","line":38,"charStart":2037,"charEnd":2055}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Expected closing tag. Unexpected end of file.","line":5,"charStart":81,"charEnd":219}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1469 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":442,"charEnd":449}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (template). Ignored.","line":36,"charStart":1957,"charEnd":1968}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (polymer-element). Ignored.","line":38,"charStart":2037,"charEnd":2055}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Expected closing tag. Unexpected end of file.","line":5,"charStart":81,"charEnd":219}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1450 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":442,"charEnd":449}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (template). Ignored.","line":36,"charStart":1957,"charEnd":1968}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (polymer-element). Ignored.","line":38,"charStart":2037,"charEnd":2055}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Expected closing tag. Unexpected end of file.","line":5,"charStart":81,"charEnd":219}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1505 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":442,"charEnd":449}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (template). Ignored.","line":36,"charStart":1957,"charEnd":1968}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (polymer-element). Ignored.","line":38,"charStart":2037,"charEnd":2055}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Expected closing tag. Unexpected end of file.","line":5,"charStart":81,"charEnd":219}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1540 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":442,"charEnd":449}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (template). Ignored.","line":36,"charStart":1950,"charEnd":1961}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Unexpected end tag (polymer-element). Ignored.","line":38,"charStart":2030,"charEnd":2048}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Expected closing tag. Unexpected end of file.","line":5,"charStart":81,"charEnd":219}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1575 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1467 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1474 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1492 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Named entity didn't end with ';'.","line":14,"charStart":625,"charEnd":632}}]
+build.dart finished [1456 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"End tag (div) seen too early. Expected other end tag.","line":11,"charStart":314,"charEnd":320}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"End tag (div) seen too early. Expected other end tag.","line":11,"charStart":314,"charEnd":320}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1472 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1577 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1477 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1487 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1495 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1458 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1608 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1555 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1557 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1904 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1465 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1465 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1476 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1457 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1676 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [2087 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1730 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [3547 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [2751 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html --changed=web/modalloading.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [2167 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1646 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1625 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1643 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart --changed=web/navbar.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1734 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1629 ms]
+
+---
+build.dart --machine --changed=web/navbar.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1590 ms]
+
+---
+build.dart --machine --changed=web/navbar.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1600 ms]
+
+---
+build.dart --machine --changed=web/mford_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1714 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1715 ms]
+
+---
+build.dart --machine --removed=web/mford_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1642 ms]
+
+---
+build.dart --machine --changed=web/yab_downdown.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1730 ms]
+
+---
+build.dart --machine --changed=web/yab_downdown.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/yab_downdown.html","message":"definition for Polymer element with tag name \"my-toggle\" not found.","line":5,"charStart":72,"charEnd":115}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1713 ms]
+
+---
+build.dart --machine --changed=web/yab_downdown.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1615 ms]
+
+---
+build.dart --machine --changed=web/yab_downdown.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1644 ms]
+
+---
+build.dart --machine --changed=web/yab_downdown.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1659 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1652 ms]
+
+---
+build.dart --machine --changed=web/yab_downdown.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1614 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1681 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1709 ms]
+
+---
+build.dart --machine --changed=web/yab_downdown.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1651 ms]
+
+---
+build.dart --machine --changed=web/yab_downdown.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1648 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1637 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1679 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1645 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1633 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1705 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1651 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1683 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"error","params":{"file":"web/clickcounter.html","message":"couldn't find imported asset \"web/yab_dropdown.html\" in package \"ptest12\".","line":2,"charStart":45,"charEnd":89}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build failed with errors: {Transform polymer (Linter) on ptest12|web/clickcounter.html threw error: couldn't find imported asset "web/yab_dropdown.html" in package "ptest12".}
+build.dart finished [1689 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"error","params":{"file":"web/clickcounter.html","message":"couldn't find imported asset \"web/yab_dropdown.html\" in package \"ptest12\".","line":4,"charStart":62,"charEnd":106}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build failed with errors: {Transform polymer (Linter) on ptest12|web/clickcounter.html threw error: couldn't find imported asset "web/yab_dropdown.html" in package "ptest12".}
+build.dart finished [1667 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1715 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1696 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1696 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1673 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1706 ms]
+
+---
+build.dart --machine --changed=web/yab_downdown.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1941 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1661 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1671 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1827 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1719 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1679 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1693 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1688 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1731 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1703 ms]
+
+---
+build.dart --machine --changed=web/yab_dropdown.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1731 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1655 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1674 ms]
+
+---
+build.dart --machine --changed=web/css/bootstrap-theme.css --changed=web/css/bootstrap-theme.min.css --changed=...
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1637 ms]
+
+---
+build.dart --machine --changed=web/fonts/glyphicons-halflings-regular.eot --changed=web/fonts/glyphicons-halfli...
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1651 ms]
+

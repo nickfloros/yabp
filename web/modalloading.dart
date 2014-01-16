@@ -1,3 +1,4 @@
+library modalloading;
 import 'package:polymer/polymer.dart';
 
 /**

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<polymer-element name="yab-dropdown">
+  <template>
+    <div class="btn-group">
+      <button type="button" class="btn btn-default dropdown-toggle" 
+        on-click="{{onDropdownSelected}}" 
+        data-toggle="dropdown">
+        Action <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu" role="menu">
+             <template repeat="{{item in options | enumerate}}">
+                <li id="li_{{item.index}}"><a data-value="{{item.index}}" on-click="{{onOptionSelected}}">{{item.value}}</a></li>
+            </template>        
+      </ul>
+    </div>
+  </template>
+  <script type="application/dart" src="yab_dropdown.dart"></script>
+</polymer-element>

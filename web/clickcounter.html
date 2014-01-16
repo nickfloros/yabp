@@ -1,4 +1,7 @@
+<!DOCTYPE html>
 <link rel="import" href="modalloading.html">
+<link rel="import" href="yab_downdown.html">
+
 <polymer-element name="click-counter" attributes="count">
   <template>
     <style>
@@ -8,7 +11,7 @@
       <span>(click count: {{count}})</span>
     </div>
     <modal-loading id="modalLoading" ></modal-loading>
-        
+    <yab-dropdown id="yabdropdown"></yab-dropdown>
   </template>
   <script type="application/dart" src="clickcounter.dart"></script>
 </polymer-element>

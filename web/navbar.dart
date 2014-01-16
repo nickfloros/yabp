@@ -1,3 +1,4 @@
+library navbar;
 import 'dart:html';
 import 'package:polymer/polymer.dart';
 
@@ -6,32 +7,83 @@ import 'package:polymer/polymer.dart';
  */
 @CustomTag('nav-bar')
 class NavBar extends PolymerElement {
-  @published int count = 0;
- 
-  List options = toObservable([]);
+  // need that to ensure that bootscrap css is applied
+  bool get applyAuthorStyles => true;
   
-  bool applyAuthorStyles = true;
-  NavBar.created() : super.created() {
-  }
+  // list of items to display
+  @published 
+  List options = toObservable([]);
 
-  void increment() {
-    count++;
+  // event to generate when an option is selected ..
+  static final String selectionEventName='navTabEvent';
+  
+  static final String mapSelected = 'mapSelected';
+  
+  // remembers which item is curently selected
+  var _currentSelected; 
+  
+  NavBar.created() : super.created() {
+    print('NavBar.created : shadowRoot is null ${shadowRoot==null}');
   }
   
   void enteredView() {
     super.enteredView();
+    print('NavBar.enteredView : shadowRoot is null ${shadowRoot==null}');
+    
+  }
+
+  void _toggleNavBar() {
+    if (_navBarActive!=null){
+      _navBarActive.classes.toggle('collapse');
+      _navBarActive.classes.toggle('collapsing');
+    }
+  }
+  
+  void onSelected(Event e, var detail, Element target) {
+    var idStr = target.getAttribute('data-value');
+    if (idStr!=null) {
+      _toggle(target.parent);      
+      _toggleNavBar();
+      _navBarActive=null;
+      this.fire(selectionEventName,detail:int.parse(idStr));
+    }
     
   }
   
-  void leftView() {
-    super.leftView();
+  Element _navBarActive=null;
+  
+  void showNavBar() {
+    _navBarActive = shadowRoot.getElementById('navContent');
+    _navBarActive.style.height="auto";
+    _toggleNavBar();
+  }
+
+  void select(String id){
+    var elem = shadowRoot.getElementById('li${id}');
+    if (elem!=null)  {
+      _toggle(elem);
+    }
+  }
+    
+  void _toggle(Element target) {
+    if (_currentSelected!=null)
+      _currentSelected.classes.toggle('active');
+    // this is because the action is on the anchor element but the style applies to the parent div
+    _currentSelected = target; 
+    _currentSelected.classes.toggle('active');
   }
   
-  void selected() {
-    var navBar = shadowRoot.getElementById('navContent');
-    navBar.style.height="auto";
-    navBar.classes.toggle('collapse');
-    navBar.classes.toggle('collapsing');
+  void setSites(var sites){
+    options.addAll(sites);
   }
+    
+  /*
+   * again hardwired .. 
+   */
+  int get height {
+    if ($['footDiv']!=null)
+      return $['headerDiv'].clientHeight;  
+    return 50;
+    }
 }
 
