@@ -1,0 +1,15 @@
+<link rel="import" href="modalloading.html">
+<polymer-element name="click-counter" attributes="count">
+  <template>
+    <style>
+    </style>
+    <div class="container">
+      <button type="button" class="btn btn-primary" on-click="{{increment}}">Click me</button><br>
+      <span>(click count: {{count}})</span>
+    </div>
+    <modal-loading id="modalLoading" ></modal-loading>
+        
+  </template>
+  <script type="application/dart" src="clickcounter.dart"></script>
+</polymer-element>
+
