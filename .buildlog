@@ -971,3 +971,185 @@ build.dart --machine --changed=web/fonts/glyphicons-halflings-regular.eot --chan
 [{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
 build.dart finished [1651 ms]
 
+---
+build.dart --machine --changed=web/ptest12.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1665 ms]
+
+---
+build.dart --machine --changed=web/ptest12.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1681 ms]
+
+---
+build.dart --machine --changed=README.md
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1778 ms]
+
+---
+build.dart --machine --changed=README.md
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1682 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [1818 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+[{"method":"warning","params":{"file":"web/modalloading.html","message":"Named entity didn't end with ';'.","line":10,"charStart":443,"charEnd":450}}]
+build.dart finished [3486 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+
+build.dart finished [1712 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [4397 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+
+build.dart finished [1657 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1633 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+
+build.dart finished [1957 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1661 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+
+build.dart finished [1647 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1662 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [4177 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1807 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1645 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1652 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+
+build.dart finished [1680 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+
+build.dart finished [1933 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+
+build.dart finished [1611 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1796 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1632 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1654 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1653 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+
+build.dart finished [1617 ms]
+
+---
+build.dart --machine --changed=web/modalloading.html
+
+build.dart finished [1668 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1705 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1640 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1725 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1614 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1650 ms]
+
+---
+build.dart --machine --changed=web/modalloading.dart
+
+build.dart finished [1609 ms]
+
+---
+build.dart --machine --changed=build/css/bootstrap-theme.css --changed=build/css/bootstrap-theme.min.css --chan...
+
+build.dart finished [1673 ms]
+
